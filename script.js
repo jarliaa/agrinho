@@ -49,7 +49,7 @@ window.addEventListener('load', revealOnScroll);
 const images = [
   './img/vacas.jpg',
   './img/pr0oducao.jpg',
-  './img/cidade.png'
+  './IMG_4832.webp'
 ];
 let currentIndex = 0;
 
