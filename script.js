@@ -49,7 +49,7 @@ window.addEventListener('load', revealOnScroll);
 const images = [
   './img/vacas.jpg',
   './img/pr0oducao.jpg',
-  './img/carne gostosawebp'
+  './img/carne gostosa.webp'
 ];
 let currentIndex = 0;
 
